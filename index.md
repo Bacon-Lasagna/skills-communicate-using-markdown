@@ -9,3 +9,6 @@ Comment that is supposed to say that I made different text sizes and edited a fi
 ``` javascript
 var myVar = "Hello World!";
 ```
+- [ ] do the thing
+- [ ] do it right
+- [ ] good
